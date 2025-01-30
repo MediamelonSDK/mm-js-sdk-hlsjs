@@ -1,0 +1,19 @@
+{
+  "name": "mediamelon-hlsjs-sdk",
+  "version": "1.0.1",
+  "description": "MediaMelon HLSJS QoE SDK",
+  "main": "mmsmartstreaming_hlsjsplayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-js-sdk-hlsjs.git"
+  },
+  "author": "mediamelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-js-sdk-hlsjs/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-hlsjs#readme"
+}
