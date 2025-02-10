@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-hlsjs-sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MediaMelon HLSJS QoE SDK",
   "main": "mmsmartstreaming_hlsjsplayer.min.js",
   "scripts": {
